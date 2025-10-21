@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Thoma/OneDrive/Documents new/College/CollegeOnedrive/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/../../../../../../Audio/Chess capture.mp3</File>
+    <File>C:/Users/Thoma/OneDrive/Documents new/College/CollegeOnedrive/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/../../../../../../Audio/Chess castle.mp3</File>
+    <File>C:/Users/Thoma/OneDrive/Documents new/College/CollegeOnedrive/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/../../../../../../Audio/Chess check.mp3</File>
+    <File>C:/Users/Thoma/OneDrive/Documents new/College/CollegeOnedrive/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/../../../../../../Audio/Chess checkmate.mp3</File>
+    <File>C:/Users/Thoma/OneDrive/Documents new/College/CollegeOnedrive/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/../../../../../../Audio/Chess move.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Chess capture.mp3</File>
+    <File>Chess castle.mp3</File>
+    <File>Chess check.mp3</File>
+    <File>Chess checkmate.mp3</File>
+    <File>Chess move.mp3</File>
+  </DestFiles>
+</SourceFileCollection>

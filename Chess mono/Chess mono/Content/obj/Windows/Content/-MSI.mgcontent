@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/Black bishop.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/Black king.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/Black knight.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/Black pawn.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/Black queen.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/Black rook.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/White bishop.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/White king.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/White knight.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/White pawn.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/White queen.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/White rook.png</File>
+    <File>C:/Users/Thoma/OneDrive - Cardinal Newman College/Course work/Monogame fresh/Mono/Mono/Chess mono/Chess mono/Content/White square.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
